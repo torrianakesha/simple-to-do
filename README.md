@@ -6,7 +6,7 @@ A basic To-Do app built to practice full-stack development concepts. Currently u
 - Add new tasks - Click "Add Task" button to create tasks with title and optional details
 - View all existing tasks - Tasks are displayed in two columns: Pending and Completed
 - Edit task titles or details - Click the edit icon to modify any task
-- ✅ Delete completed or unwanted tasks - Click the trash icon to remove tasks
+- Delete completed or unwanted tasks - Click the trash icon to remove tasks
 
 ## 🚧 Upcoming 🚧
 
