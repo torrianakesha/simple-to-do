@@ -1,7 +1,6 @@
 # Simple To-Do App [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
 
-A basic To-Do app built to practice full-stack development concepts.  
-Currently uses React with TypeScript (Frontend), TailwindCSS with shadcn/ui components (Styling), and Vite (Build tool)
+A basic To-Do app built to practice full-stack development concepts. Currently uses React with TypeScript (Frontend), TailwindCSS with shadcn/ui components (Styling), and Vite (Build tool)
 
 ## Features
 
