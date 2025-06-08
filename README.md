@@ -3,11 +3,10 @@
 A basic To-Do app built to practice full-stack development concepts. Currently uses React with TypeScript (Frontend), TailwindCSS with shadcn/ui components (Styling), and Vite (Build tool)
 
 ## Features
-
-✅ Add new tasks - Click "Add Task" button to create tasks with title and optional details
-✅ View all existing tasks - Tasks are displayed in two columns: Pending and Completed
-✅ Edit task titles or details - Click the edit icon to modify any task
-✅ Delete completed or unwanted tasks - Click the trash icon to remove tasks
+- Add new tasks - Click "Add Task" button to create tasks with title and optional details
+- View all existing tasks - Tasks are displayed in two columns: Pending and Completed
+- Edit task titles or details - Click the edit icon to modify any task
+- ✅ Delete completed or unwanted tasks - Click the trash icon to remove tasks
 
 ## 🚧 Upcoming 🚧
 
