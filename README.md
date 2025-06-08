@@ -1,73 +1,38 @@
-# Welcome to your Lovable project
+# Simple To-Do App [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
 
-## Project info
+A basic To-Do app built to practice full-stack development concepts.  
+Currently uses React with TypeScript (Frontend), TailwindCSS with shadcn/ui components (Styling), and Vite (Build tool)
 
-**URL**: https://lovable.dev/projects/d1291ab9-b438-4d97-911e-ca2e18781a19
+## Features
 
-## How can I edit this code?
+✅ Add new tasks - Click "Add Task" button to create tasks with title and optional details
+✅ View all existing tasks - Tasks are displayed in two columns: Pending and Completed
+✅ Edit task titles or details - Click the edit icon to modify any task
+✅ Delete completed or unwanted tasks - Click the trash icon to remove tasks
 
-There are several ways of editing your application.
+## 🚧 Upcoming 🚧
 
-**Use Lovable**
+- Connect to a PHP Laravel backend for persistent data storage  
+- Add user authentication (optional)  
+- Deploy 
 
-Simply visit the [Lovable Project](https://lovable.dev/projects/d1291ab9-b438-4d97-911e-ca2e18781a19) and start prompting.
+## Learning Goals
 
-Changes made via Lovable will be committed automatically to this repo.
+- Improve understanding of CRUD operations  
+- Explore API integration between front-end and Laravel backend  
+- Practice RESTful API design and consumption  
 
-**Use your preferred IDE**
+## How to Run
 
-If you want to work locally using your own IDE, you can clone this repo and push changes. Pushed changes will also be reflected in Lovable.
+1. Clone this repo:
+    ```bash
+    git clone https://github.com/torrianakesha/simple-to-do.git
+    cd simple-to-do
+    ```
+2. Open `index.html` (if purely front-end)  
+    *OR* run your front-end server (React, Vite, etc.) as per your stack.
+   
+## License
 
-The only requirement is having Node.js & npm installed - [install with nvm](https://github.com/nvm-sh/nvm#installing-and-updating)
+This project is licensed under the [MIT License](LICENSE).
 
-Follow these steps:
-
-```sh
-# Step 1: Clone the repository using the project's Git URL.
-git clone <YOUR_GIT_URL>
-
-# Step 2: Navigate to the project directory.
-cd <YOUR_PROJECT_NAME>
-
-# Step 3: Install the necessary dependencies.
-npm i
-
-# Step 4: Start the development server with auto-reloading and an instant preview.
-npm run dev
-```
-
-**Edit a file directly in GitHub**
-
-- Navigate to the desired file(s).
-- Click the "Edit" button (pencil icon) at the top right of the file view.
-- Make your changes and commit the changes.
-
-**Use GitHub Codespaces**
-
-- Navigate to the main page of your repository.
-- Click on the "Code" button (green button) near the top right.
-- Select the "Codespaces" tab.
-- Click on "New codespace" to launch a new Codespace environment.
-- Edit files directly within the Codespace and commit and push your changes once you're done.
-
-## What technologies are used for this project?
-
-This project is built with:
-
-- Vite
-- TypeScript
-- React
-- shadcn-ui
-- Tailwind CSS
-
-## How can I deploy this project?
-
-Simply open [Lovable](https://lovable.dev/projects/d1291ab9-b438-4d97-911e-ca2e18781a19) and click on Share -> Publish.
-
-## Can I connect a custom domain to my Lovable project?
-
-Yes, you can!
-
-To connect a domain, navigate to Project > Settings > Domains and click Connect Domain.
-
-Read more here: [Setting up a custom domain](https://docs.lovable.dev/tips-tricks/custom-domain#step-by-step-guide)
